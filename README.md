@@ -7,3 +7,6 @@ Days completed so far:
 
 Day 1, both
 Day 2, both
+Day 3, both
+Day 4, first part
+Day 7, both
