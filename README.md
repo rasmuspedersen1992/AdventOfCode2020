@@ -10,3 +10,6 @@ Day 2, both
 Day 3, both
 Day 4, first part
 Day 7, both
+Day 8, both
+
+Comment: Still need to catch up on missed days
