@@ -11,5 +11,6 @@ Day 3, both
 Day 4, both
 Day 7, both
 Day 8, both
+Day 9, both
 
 Comment: Still need to catch up on missed days
