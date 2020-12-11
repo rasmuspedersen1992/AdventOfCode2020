@@ -12,5 +12,7 @@ Day 4, both
 Day 7, both
 Day 8, both
 Day 9, both
+Day 10, First, got stuck and postponed part 2 
+Day 11, both
 
 Comment: Still need to catch up on missed days
